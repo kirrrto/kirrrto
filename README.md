@@ -12,7 +12,7 @@ Amazon product development engineer focused on security cameras, vehicle imaging
 
 ### [Amazon Market Research Dashboard](https://github.com/kirrrto/amazon-market-research-dashboard)
 
-A Streamlit dashboard for ecommerce product research, market analysis and opportunity scoring.
+A bilingual Streamlit dashboard for Amazon hardware product research, spreadsheet import, supplier product-page collection, specification normalization, profit analysis, specification matrix and gap analysis.
 
 Key features:
 
